@@ -1,5 +1,5 @@
-# Copied from https://reactjsexample.com/a-to-do-list-app-built-using-react-js/
-# To-Do List App - this is a cloned version
+### Copied from https://reactjsexample.com/a-to-do-list-app-built-using-react-js/
+### To-Do List App - this is a cloned version
 
 A Simple To-Do List app built with React.js
 
